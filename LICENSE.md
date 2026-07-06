@@ -1,4 +1,4 @@
-# 
+# Elite Sublime Text extensions for Mac OS | Best Sublime Text extensions for PC Windows. Featuring live-templates and data-import-export — optimized for maximum performance on every platform.
 
 
 
